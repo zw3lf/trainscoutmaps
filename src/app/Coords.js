@@ -193,7 +193,7 @@ export const ARRMap = [{
     name: "eln",
     count: 20,
     fullname: "Eastern La Noscea",
-    image: "arr/easter_la_noscea.jpg",
+    image: "arr/eastern_la_noscea.jpg",
     arank: "Hellsclaw",
     0: {
         x: 28.95,
